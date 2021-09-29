@@ -1,4 +1,4 @@
-# 2021 CAB302 Major Project | Group 24 | Electronic Trading Platform
+# Electronic Trading Platform | 2021 CAB302 Major Project | Group 24
 
 [Specification](https://blackboard.qut.edu.au/bbcswebdav/pid-9209104-dt-content-rid-38013728_1/courses/CAB302_21se1/Assignment%20Specification%282%29.pdf)
 
